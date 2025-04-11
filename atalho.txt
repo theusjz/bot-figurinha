@@ -1,0 +1,2 @@
+cd C:\Users\theusjz\Documents\whatsapp-bot-stickers
+node bot.js
